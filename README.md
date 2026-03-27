@@ -42,13 +42,13 @@
 ## 💼 Experiencia
 
 ✅ Soporte Técnico & Mesa de Ayuda  
-✅ Instalacion, Configuración y Administración de infraestructura virtualizada Proxmox
-✅ Instalacion, Configuración y Administración de infraestructura virtualizada VMware
-✅ Instalacion, Configuración y Administración de Infraestructura usando Ansible
-✅ Despliegues con Docker sobre Infraestructura de Docker Swarm
-✅ Despliegues con Docker sobre Infraestructura de Kubernetes
-✅ Instalacion, Configuración y Administración de CNI Cilium
-✅ Configuración y Administración de Gateway API usando CNI Cilium
+✅ Instalacion, Configuración y Administración de infraestructura virtualizada Proxmox  
+✅ Instalacion, Configuración y Administración de infraestructura virtualizada VMware  
+✅ Instalacion, Configuración y Administración de Infraestructura usando Ansible  
+✅ Despliegues con Docker sobre Infraestructura de Docker Swarm  
+✅ Despliegues con Docker sobre Infraestructura de Kubernetes  
+✅ Instalacion, Configuración y Administración de CNI Cilium  
+✅ Configuración y Administración de Gateway API usando CNI Cilium  
 ✅ Configuración de sistemas de backup  
 ✅ Monitoreo de servicios con Zabbix y Grafana
 
